@@ -1,0 +1,15 @@
+.navbar {
+    background-color: pink; /* Changez la couleur de fond en rose */
+  }
+  
+  .navLink {
+    color: pink !important; /* Changez la couleur du texte en rose */
+    font-family: 'Votre Police', sans-serif; /* Modifiez la police */
+  }
+  
+  .logo {
+    height: 90px;
+    margin-right: 30px;
+    width: 90px;
+  }
+  
