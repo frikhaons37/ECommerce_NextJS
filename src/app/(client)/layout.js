@@ -1,4 +1,5 @@
-import Menu from '@/components/client/menu.jsx';
+import Menu from "@/Components/Client/menu";
+
 export default function Layout({children}) {
     return (
         <>
